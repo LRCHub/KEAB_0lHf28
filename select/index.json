@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "SMELL",
+  "base_artist": "岡村靖幸",
+  "createdAt": "2026-03-23T17:21:34.513996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Sure Can Smell the Rain",
+      "artist": "BlackHawk",
+      "has_synced": true,
+      "path": "select/01_I_Sure_Can_Smell_the_Rain_BlackHawk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Sure Can Smell the Rain",
+      "artist": "BlackHawk",
+      "has_synced": false,
+      "path": "select/02_I_Sure_Can_Smell_the_Rain_BlackHawk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stop And Smell The Roses",
+      "artist": "Mac Davis",
+      "has_synced": true,
+      "path": "select/03_Stop_And_Smell_The_Roses_Mac_Davis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Smell Smoke",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/04_I_Smell_Smoke_Mystikal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Smell of Today Is Sweet Like Breastmilk In the Wind",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/05_The_Smell_of_Today_Is_Sweet_Like_Breastmilk_In_the_Wind_múm.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Put A Smell On Me",
+      "artist": "Matthew Dear",
+      "has_synced": true,
+      "path": "select/06_You_Put_A_Smell_On_Me_Matthew_Dear.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Can Smell The Leaves",
+      "artist": "The Olivia Tremor Control",
+      "has_synced": true,
+      "path": "select/07_I_Can_Smell_The_Leaves_The_Olivia_Tremor_Control.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That Smell",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/08_That_Smell_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lynyrd Skynyrd - That Smell",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/09_Lynyrd_Skynyrd_-_That_Smell_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That Smell",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/10_That_Smell_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That Smell",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/11_That_Smell_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That Smell (Live At Asbury Park, New Jersey/1977)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/12_That_Smell_(Live_At_Asbury_Park,_New_Jersey_1977)_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SMELL",
+      "artist": "岡村 靖幸",
+      "has_synced": false,
+      "path": "select/pl_01_SMELL_岡村_靖幸.txt"
+    }
+  ]
+}
